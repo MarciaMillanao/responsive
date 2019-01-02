@@ -1,0 +1,23 @@
+.primera_section, .segunda_section{
+    padding: 6% 2%;
+}
+
+.primera_section p{
+    padding: 6% 2%;
+}
+
+.segunda_section h5{
+    text-align: center;
+}
+
+.segunda_section p{
+    padding: 10% 0%;
+}
+
+.icon_centro{
+    text-align: center;
+}
+
+.icon_right{
+    text-align: right;
+}
